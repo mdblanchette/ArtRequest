@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Search Page">28d0afba50332110fcefe8a5e9d313a5</macroponent>
+        <name>set_loading</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({api, event, imports}) {
+	// Called on successful retrieval of search data
+    api.setState('loading', false);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-07 03:26:25</sys_created_on>
+        <sys_id>ecd0afbaec332110a9e0deda3f0e6aa4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>set_loading</sys_name>
+        <sys_package display_value="Art Request" source="x_1092031_art_re_0">4f50e3ba47332110aa239995536d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Art Request">4f50e3ba47332110aa239995536d4395</sys_scope>
+        <sys_update_name>sys_ux_client_script_ecd0afbaec332110a9e0deda3f0e6aa4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-07 03:26:25</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>
