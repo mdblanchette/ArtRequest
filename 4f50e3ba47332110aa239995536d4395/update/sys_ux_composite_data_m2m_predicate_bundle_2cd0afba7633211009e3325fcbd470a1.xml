@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">28d0afba333321101d11c59dbe2556a3</dataset>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">68d0afba1d332110429a1b5e8a0132a1</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-07 03:26:26</sys_created_on>
+        <sys_id>2cd0afba7633211009e3325fcbd470a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Art Request" source="x_1092031_art_re_0">4f50e3ba47332110aa239995536d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Art Request">4f50e3ba47332110aa239995536d4395</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_2cd0afba7633211009e3325fcbd470a1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-07 03:26:26</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">a4d0afbaf4332110f17f9fed6387f6a3</dataset>
+        <order/>
+        <predicate_bundle display_value="My request - task bundle">60d0afba113321101645368d56ae3fa2</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-07 03:26:26</sys_created_on>
+        <sys_id>6cd0afba15332110784048e6d029e2a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Art Request" source="x_1092031_art_re_0">4f50e3ba47332110aa239995536d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Art Request">4f50e3ba47332110aa239995536d4395</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_6cd0afba15332110784048e6d029e2a1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-07 03:26:26</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

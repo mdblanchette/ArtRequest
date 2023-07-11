@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="My Request - task predicate">a8d0afba3a3321108a82dd02caf8d5a0</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-07 03:26:26</sys_created_on>
+        <sys_id>2cd0afba863321107adb9893027ded9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Art Request" source="x_1092031_art_re_0">4f50e3ba47332110aa239995536d4395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Art Request">4f50e3ba47332110aa239995536d4395</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_2cd0afba863321107adb9893027ded9d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-07 03:26:26</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>
